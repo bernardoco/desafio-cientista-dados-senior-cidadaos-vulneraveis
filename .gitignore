@@ -1,0 +1,7 @@
+.venv
+.env
+
+*.csv
+!censo2022_habitantes_bairros.csv
+
+__pycache__
